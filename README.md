@@ -41,4 +41,4 @@ Registration: 9th September - 23rd September 2024.
 - Additional INR 75,000 in prizes for the best solutions in the categories of Innovation, Scalability, and Product.
 - Selected students may be eligible for internship opportunities with Eightfold AI.
 
-**Registration Link: ** Register at Unstop by clicking [here](https://unstop.com/hackathons/innov8-the-ultimate-innovation-challenge-in-machine-learning-and-ai-with-career-opportunities-rendezvous-2024-1150650)
+**Registration Link:** Register at Unstop by clicking [here](https://unstop.com/hackathons/innov8-the-ultimate-innovation-challenge-in-machine-learning-and-ai-with-career-opportunities-rendezvous-2024-1150650)
