@@ -1,3 +1,6 @@
+**To download the contents of the repository, press the code button and select download as .zip**
+
+
 **Welcome to Innov8!**
 
 Hosted by **ARIES, IIT Delhi** in collaboration with **Eightfold.ai**, Innov8 is the ultimate convergence of creativity and technology. This event challenges you to leverage your innovation and technical skills to tackle real-world problems using machine learning models. Whether you're enhancing existing solutions or creating groundbreaking ones, Innov8 is your chance to showcase your ability to think outside the box and drive impactful change with AI. Ready to innovate?
