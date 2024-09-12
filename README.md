@@ -1,4 +1,4 @@
-**To download the contents of the repository, press the code button and select download as .zip**
+**To download the contents of the repository, press the code button and select "Download ZIP"**
 
 
 **Welcome to Innov8!**
